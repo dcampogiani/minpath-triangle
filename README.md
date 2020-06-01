@@ -2,7 +2,7 @@
 
 I saw [this repo](https://github.com/azanin/minpath-triangle) from my friend [azanin](http://azanin.github.io/), and I've tried to implement it in Kotlin.
 
-Mine implementation is not the best, but I wanted to build my data structure from a file, and then traverse it to find the desired value.
+My implementation may not be the best, but I wanted to build my data structure from a text file, and then traverse it to find the desired value.
 
 Taken directly from his README.md:
 
